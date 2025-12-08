@@ -1,4 +1,5 @@
-print("Hello world")
+# tool for solving day 1, part 1 of advent of code 2025
+# author: willow jordan
 
 # Open the file in read mode
 file = open("input.txt", "r")
