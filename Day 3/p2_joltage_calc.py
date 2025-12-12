@@ -1,4 +1,4 @@
-# tool for solving day 3, part 1 of advent of code 2025
+# tool for solving day 3, part 2 of advent of code 2025
 # author: willow jordan
 
 JOLTAGE_DIGITS = 12 # number of batteries that can be flipped on per bank
